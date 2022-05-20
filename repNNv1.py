@@ -3,6 +3,9 @@
 """
 Created on Thu May  5 11:15:55 2022
 https://github.com/Srilthe/matplotlibNN
+
+https://youtu.be/vHYX1ZnyRi4
+
 @author: srilthe
 """
 import numpy as np
