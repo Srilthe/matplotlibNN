@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu May  5 11:15:55 2022
-
+https://github.com/Srilthe/matplotlibNN
 @author: srilthe
 """
 import numpy as np
